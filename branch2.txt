@@ -1,3 +1,6 @@
 This is branch 2.
 
 Not git-learning branch.
+
+Making some changes in branch 2.
+
